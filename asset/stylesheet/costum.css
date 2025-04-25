@@ -1,0 +1,35 @@
+.btnhref {
+    display: flex;
+    width: 200px;
+    height: 60px;
+    background-color: #d4967d;
+    color: white !important;
+    text-transform: capitalize;
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
+}
+
+.h4Footer {
+    font-size: 30px;
+    width: 100%;
+    height: 30%;
+    font-weight: normal;
+    
+}
+
+.praFooter {
+    font-size: 18px;
+    width: 100%;
+    height: 70%;
+    margin-top: -60px;
+    line-height: 36px;
+  
+}
+
+
+.aFooter {
+    color: coral !important;
+    text-decoration: underline;
+    
+}

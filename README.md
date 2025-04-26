@@ -2,7 +2,7 @@
   <li>
     <a href="https://keyelty-dev.github.io/first-project/"> Online demo</a>
   </li>
-  <li> My first grid project</li>
+  <li> My first project</li>
 </ul>
 
 ![screenshot](https://github.com/keyelty-dev/first-project/blob/main/asset/image/1.png?raw=true)
